@@ -1,7 +1,7 @@
 var points = 0
 alert("quiz:")
 q1 = prompt("Are you allowed to play fortnite? yes|no")
-if (q1 == "no"|"No"){
+if (q1 == "no" || "No"){
 	alert("correct +1 point")
 	points += 1
 }
@@ -17,7 +17,7 @@ else{
 	alert("you have disapointed the rohan god you get no points take the L")
 }
 q3 = prompt("who is the best? rohan|me|you")
-if (q3 == "rohan"|"Rohan"){
+if (q3 == "rohan" or "Rohan"){
 	alert("correct +1 point")
 	points += 1
 }
@@ -25,7 +25,7 @@ else{
 	alert("you have disapointed the rohan god you get no points take the L")
 }
 q4 = prompt("can you sue people? yes|no")
-if (q4 == "no"|"No"){
+if (q4 == "no"||"No"){
 	alert("correct +1 point")
 	points += 1
 }
@@ -33,7 +33,7 @@ else{
 	alert("you have disapointed the rohan god you get no poin	ts take the L")
 }
 q5 = prompt("what game is boss? drift boss|hello kity")
-if (q5 == "drift boss"|"Drift boss"){
+if (q5 == "drift boss"||"Drift boss"){
 	alert("correct +1 point")
 	points += 1
 }
@@ -47,4 +47,4 @@ if (percent > 69){
 }
 else {
 	alert("you failed, you need atleast a 70 percent to pass")}
-    
+t
