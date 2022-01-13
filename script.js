@@ -47,3 +47,4 @@ if (percent > 69){
 }
 else {
 	alert("you failed, you need atleast a 70 percent to pass")}
+    
