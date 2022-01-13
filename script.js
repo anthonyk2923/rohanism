@@ -1,7 +1,7 @@
 var points = 0
 alert("quiz:")
 q1 = prompt("Are you allowed to play fortnite? yes|no")
-if (q1 == "no") || ("No"){
+if (q1 == "no") || (q1 == "No"){
 	alert("correct +1 point")
 	points += 1
 }
