@@ -2,7 +2,7 @@ function ChangeColor(){
 	idrules = document.getElementById("rules")
 	idrules.style.color = "darkgrey";
 	alert("quiz, press enter, or close to begin the quiz:")
-	quiz()
+	// quiz()
 
 function quiz(){
 	var points = 0
