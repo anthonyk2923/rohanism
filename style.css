@@ -1,0 +1,17 @@
+body {
+  background-image: url('wallpaper.png');
+}
+.intro{
+  font-size: 150%;
+  font-style: oblique;
+  color: orange;
+}
+.rules{
+  font-size: 150%;
+  font-style: italic;
+  color: darkred;
+  margin: 0;
+  padding: 25px;
+  border: 5px solid red;
+  background-color: darkgrey;
+}
