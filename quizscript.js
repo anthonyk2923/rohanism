@@ -1,5 +1,5 @@
 function quiz(){
-    q1 = document.getElementById("q1").innerText
+    q1 = document.getElementById("q1").outerHTML
     alert(q1)
     var points = 0
     console.log("quiz started")
